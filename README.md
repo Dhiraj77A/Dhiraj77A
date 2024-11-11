@@ -1,11 +1,7 @@
-- 👋 Hi, I’m @DhirajShres
-- 👀 I’m interested in DSA currently
-- 🌱 I’m currently learning C++ DSA concepts(basics)
-- 💞️ I’m looking to collaborate on nothing for now
-- 📫 How to reach me gmail
-- ⚡ Fun fact: Dark is faster than light
+# Hi, I’m DhirajShres 👋
 
-<!---
-Dhiraj77A/Dhiraj77A is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👀 I’m currently interested in Data Structures and Algorithms (DSA).
+- 🌱 I’m currently learning the basics of C++ DSA concepts.
+- 💞️ I’m not looking to collaborate at the moment.
+- 📫 You can reach me via Gmail.
+- ⚡ Fun fact: Dark is faster than light, making this profession interesting too!
